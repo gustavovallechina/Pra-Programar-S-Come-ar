@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SistemaDeAgendamentoDeConslta.Entities.Consulta">
+    <Position X="8.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAgAAACAAEAACAACAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Entities\Consulta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaDeAgendamentoDeConslta.Entities.Medico">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAACAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Medico.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaDeAgendamentoDeConslta.Entities.Paciente">
+    <Position X="0.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAGAAAAEAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Paciente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaDeAgendamentoDeConslta.Entities.Pessoa">
+    <Position X="5.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACAAAAAAAAAAACAAAAAAAAIIAAAAAAAAACAAEAEAA=</HashCode>
+      <FileName>Entities\Pessoa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="SistemaDeAgendamentoDeConslta.Entities.Enums.StatusConsulta">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAgAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Enums\StatusConsulta.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
